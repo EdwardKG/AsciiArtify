@@ -27,15 +27,15 @@ AsciiArtify is a startup that aims to develop a new software product for convert
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **minikube**.
 
-![Image]()
+![Image](https://github.com/EdwardKG/AsciiArtify/blob/main/.data/minikube_demo.gif)
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **kind**.
 
-![Image]()
+![Image](https://github.com/EdwardKG/AsciiArtify/blob/main/.data/kind_demo.gif)
 
 * Deploying a "Hello world" application to a Kubernetes cluster using **k3d**.
 
-![Image]()
+![Image](https://github.com/EdwardKG/AsciiArtify/blob/main/.data/k3d_demo.gif)
 
 
 ## Conclusion:
