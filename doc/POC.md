@@ -11,4 +11,4 @@ Provide the necessary authentication credentials, such as username and password 
 Once authenticated, you will be able to access and manage your applications through the Argo CD control panel.
 
 Here it is an example:
-![alt text](https://github.com/EdwardKG/AsciiArtify/blob/main/.data/ArgoCD_demo.gif"Argo CD")
+![alt text](https://github.com/EdwardKG/AsciiArtify/blob/main/.data/ArgoCD_demo.gif "Argo CD")
